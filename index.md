@@ -1,4 +1,4 @@
-# Welcome to my Github page
+# --> Welcome to my Github page
 
 You can use my scripts to scan your linux system or do other things lol.
 
