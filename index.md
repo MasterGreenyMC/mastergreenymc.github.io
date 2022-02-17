@@ -2,9 +2,9 @@
 
 You can use my scripts to scan your linux system or 
 
-### Security scanning
+## Security scanning
 
-## Install scanning tools
+### Install scanning tools
 ```markdown
 apt-get update
 apt-get install -y lynis
@@ -13,7 +13,7 @@ apt-get install -y chkrootkit
 apt-get install -y clamav clamav-daemon
 ```
 
-## Scan
+### Scan
 ```markdown
 apt-get update
 echo \  [UPDATE DONE]
