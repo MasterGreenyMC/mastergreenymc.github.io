@@ -28,3 +28,9 @@ clamscan --recursive --quiet /
 echo \  [SCAN 4 DONE]
 echo \  [ALL DONE]
 ```
+
+## Projects
+### \# color_code
+```markdown
+https://github.com/MasterGreenyMC/color_code
+```
