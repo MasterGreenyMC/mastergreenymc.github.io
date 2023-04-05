@@ -6,10 +6,7 @@
 ### \# Install scanning tools
 ```markdown
 apt-get update
-apt-get install -y lynis
-apt-get install -y rkhunter
-apt-get install -y chkrootkit
-apt-get install -y clamav clamav-daemon
+apt-get install -y lynis rkhunter chkrootkit clamav clamav-daemon
 ```
 
 ### \# Scan
@@ -41,7 +38,7 @@ URL: https://github.com/MasterGreenyMC/color_code
 ### \# PasswordGenerator
 ```markdown
 This script generates a password for you. You can choose between two modes: word mode and random mode.
-In word mode, the password can contain english adjectives, digits or punctuation and english nouns.
+In word mode, the password can contain english adjectives and nouns, digits and punctuation.
 In random mode, the password is completely random.
 
 URL: https://github.com/MasterGreenyMC/PasswordGenerator
